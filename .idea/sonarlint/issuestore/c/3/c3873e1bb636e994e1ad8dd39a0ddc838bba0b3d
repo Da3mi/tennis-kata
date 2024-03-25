@@ -1,0 +1,12 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¹íç¥ùÿÿÿÿ8€üØ–ç1J$c2ea6f61-95b6-4d71-8812-3cbcaee5b4b8
+Œ
+java:S2583*"DChange this condition so that it does not always evaluate to "false"(ì¸¿¢ûÿÿÿÿ8éüŠ—ç1J$5b22d258-6c86-493f-a030-7e313fbbd067
+Œ
+java:S2583'"DChange this condition so that it does not always evaluate to "false"(£‰°íÿÿÿÿÿ8èüŠ—ç1J$16668140-dfd3-4773-aee4-92590f151931
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ù…¾Ìþÿÿÿÿ8ÌþØ–ç1J$e4590dec-acba-486a-ad26-6c40fedf55de
+r	java:S106("+Replace this use of System.out by a logger.(‚•ž øÿÿÿÿ8ÓþØ–ç1J$3c46634a-14c3-431e-bc8e-ee7e357fe166
+r	java:S106+"+Replace this use of System.out by a logger.(¦Èåïýÿÿÿÿ8ÕþØ–ç1J$862ed92b-ed9a-4428-b502-6d60dfe93181
+m	java:S106;"+Replace this use of System.out by a logger.(¡Üº–8ØþØ–ç1J$60558af2-ac16-480f-9333-55335da49bf3
+m	java:S106D"+Replace this use of System.out by a logger.(óõÞ£8ùüŠ—ç1J$9d621b4d-7294-48f9-b9c3-f816ed0bf121
